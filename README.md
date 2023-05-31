@@ -1,6 +1,9 @@
-# tugas_2
+# Tugas 2 PAPB
 
-A new Flutter project.
+Tugas ini memenuhi tugas mata kuliah Pengembangan Aplikasi Perangkat Bergerak
+
+- Lakukan clone project dari github https://github.com/syncaster/Code-Flutter-UNISBA.git
+- Kemudian buatlah project menggunakan dasar Container dan Decoration.
 
 ## Getting Started
 
